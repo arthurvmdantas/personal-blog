@@ -74,7 +74,7 @@ export default ({ children, location }) => (
                   boxShadow: 'none',
                   textDecoration: 'none',
                   color: 'azure',
-                  text-shadow: 3px 3px 4px #000,
+                  'text-shadow': '3px 3px 4px #000',
                 }}
                 to={'/'}
               >
